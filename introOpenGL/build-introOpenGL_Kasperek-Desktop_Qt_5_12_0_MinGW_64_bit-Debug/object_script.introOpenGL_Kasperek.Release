@@ -1,0 +1,11 @@
+release/glew.o
+release/GLApplication.o
+release/Tools.o
+release/GLWidget.o
+release/GLText.o
+release/Vector2.o
+release/main.o
+release/MainWindow.o
+release/moc_GLApplication.o
+release/moc_GLWidget.o
+release/moc_MainWindow.o

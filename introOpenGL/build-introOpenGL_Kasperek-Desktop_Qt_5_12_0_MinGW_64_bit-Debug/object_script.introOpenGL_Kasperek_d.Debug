@@ -1,0 +1,11 @@
+debug/glew.o
+debug/GLApplication.o
+debug/Tools.o
+debug/GLWidget.o
+debug/GLText.o
+debug/Vector2.o
+debug/main.o
+debug/MainWindow.o
+debug/moc_GLApplication.o
+debug/moc_GLWidget.o
+debug/moc_MainWindow.o
